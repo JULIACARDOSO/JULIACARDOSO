@@ -1,4 +1,4 @@
-# Olá devs, sejam bem vindos ao meu perfil !
+# Olá devs, sejam bem vindos ao meu perfil :)
 
 ## Sou a Júlia Cardoso, mas todos me chamam de Ju.
 <! --
@@ -17,22 +17,28 @@ Estudar DS no Ensino Médio foi estremamente importante, principalmente porque c
 
 ## Ferramentas e Tecnologias 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="33" width="33"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" width="33"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="33" width="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="33" width="33"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" width="33" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="33" width="33"/>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+<br>
+![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=java) ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=java)
+<br>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" width="34"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" width="34"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  height="34" width="34"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height="34" width="34"/>
 
+## Minhas contribuições: 
 
-## Contatos:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+## Entre em contato comigo:
 
 Email: juliacardosomiranda@gmail.com
 <br>
-<br>
-Estou no Linkedin também, link abaixo :point_down:
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/j%C3%BAlia-cardoso-336552200/)
+<br>
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/juliacardoso./)
 
 ✨
 -->
+
