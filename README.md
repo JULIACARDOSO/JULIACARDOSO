@@ -32,7 +32,7 @@ Email: juliacardosomiranda@gmail.com
 <br>
 Estou no Linkedin também, link abaixo :point_down:
 <br>
-[Júlia Cardoso - Linkedin](https://www.linkedin.com/in/j%C3%BAlia-cardoso-336552200/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/j%C3%BAlia-cardoso-336552200/)
 
 ✨
 -->
